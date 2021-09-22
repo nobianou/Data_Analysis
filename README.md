@@ -14,7 +14,7 @@ Prediction Model 2 : Random Forest
 
 >why you are interested in this data
 
-  I am intrested in this data because it provides valuable insights of Airbnbs' listing activity and metrics in NYC
+  Because it provides valuable insights of Airbnbs' listing activity and metrics in NYC
 
 >where you found the dataset (including link)
 
