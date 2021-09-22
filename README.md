@@ -10,7 +10,7 @@ Prediction Model 2 : Random Forest
   Determining how well the training and test data compare in term of Mean Square Value
   Based on comparing those things, I would say K-nearest Neighbor Model is the best at predicting the mobile phone price, with the least Mean Square        Value and higher accuracy in predicting the mobile phone price
 
-#Data assessment and exploratory data analysis of Airbnb Data
+# Data assessment and exploratory data analysis of Airbnb Data
 
 >why you are interested in this data
 
